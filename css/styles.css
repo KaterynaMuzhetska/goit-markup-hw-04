@@ -358,6 +358,7 @@ img {
   display: flex;
   justify-content: space-between;
   padding-inline-start: 0px;
+  margin-top: 16px;
 }
 
 .social-links {
