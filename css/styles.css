@@ -120,7 +120,7 @@ img {
 
 .info-list-contacts {
   display: flex;
-  margin: 0 auto;
+  margin-left: auto;
   padding-inline-start: 0px;
 }
 
