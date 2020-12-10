@@ -335,10 +335,17 @@ footer {
 
 .footer-networks {
   display: flex;
-  justify-content: space-between;
-  width: 206px;
-  margin: 0 auto;
   padding-inline-start: 0px;
+  margin: 0 auto;
+}
+
+.socil-links {
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.footer-networks .socil-links:not(:last-child) {
+  margin-right: 10px;
 }
 
 .footer-social-links {
